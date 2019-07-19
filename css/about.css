@@ -129,7 +129,7 @@ p {
             background-color: rgba(0, 199, 250, 0.6); }
   .container #gameplay {
     background-color: #566aa2;
-    background: url(/images/background-tac.jpg) no-repeat center center;
+    background: url(../images/background-tac.jpg) no-repeat center center;
     box-sizing: border-box;
     margin-top: 158px;
     padding: 3rem 1rem 2rem 1rem;
@@ -166,7 +166,7 @@ p {
     width: 15%;
     z-index: 1; }
   .container #races::before {
-    background: url(/images/divider.png) no-repeat center;
+    background: url(../images/divider.png) no-repeat center;
     content: '';
     position: absolute;
     top: -50px;
@@ -178,7 +178,7 @@ p {
     margin: auto;
     z-index: 2; }
   .container #races {
-    background: url(/images/background_races.jpg) no-repeat top center;
+    background: url(../images/background_races.jpg) no-repeat top center;
     position: relative; }
     .container #races h2 {
       font-size: 4.5rem;
@@ -245,4 +245,3 @@ p {
   .container footer {
     height: 4rem;
     padding: 1rem; }
-
